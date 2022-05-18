@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-image: url(../images/estrelas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bt2{
+    margin-left: 730px;
+    font-size: 100px;
+    margin-bottom: 200px;
+    border-radius:20px;
+
+
+}
+
+.letra{
+    font-size: 100px;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 250px;
+    margin-left: 450px;
+
+
+}

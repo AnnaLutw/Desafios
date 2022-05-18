@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-image: url(../images/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.texto{
+    text-align: center;  
+    margin-top: 200px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.gif{
+    size: 60px;
+}
