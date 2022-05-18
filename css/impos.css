@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-image: url(../images/impostor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+#container{
+    width: 100vw;
+    height: 100vh;
+}
+.um{
+    color:rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.dois{
+    color:rgb(255, 255, 255);
+
+}

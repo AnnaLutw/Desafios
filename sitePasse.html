@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>  
+  <meta charset="UTF-8"/> 
+  <meta name="viewport" content="width = device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/impos.css">
+
+
+  <script >
+    function senha() {
+      senha = 123;
+      senhaDig = prompt("Digite a senha");
+      if(senha != senhaDig){
+             window.location.href = "impostor.html"
+      }
+      else{
+            window.location.href = "SiteDuvida.html"
+      }   
+    }  
+  </script> 
+
+    <title>PAGINA DE TESTE</title>
+    
+</head>
+<body onload="senha()">
+  <p>VEJAMOS SE VOCÊ ESTÁ AUTORIZADO A ENTRAR AQUI!!</p>
+</body>
